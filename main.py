@@ -1,3 +1,5 @@
+# Subroutine with parameter
+
 import random
 print("Infinite Dice")
 def rollDice(sides):
